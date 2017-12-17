@@ -12,7 +12,7 @@ BantOS adalah distro Linux turunan Ubuntu yang dikembangkan oleh Tim development
 Leuit merupakan bangunan tradisional masyarakat Banten untuk menyimpan padi yang memiliki filosofi dan fungsi tersendiri.
 ---
 
-#### BantOS Features
+### BantOS Features
 
 - Ramah untuk pengguna linux pemula |
 - Memiliki koleksi perangkat lunak tersendiri yang sangat lengkap untuk kebutuhan perkantoran |
