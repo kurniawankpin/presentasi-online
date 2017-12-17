@@ -29,6 +29,11 @@ Release       :	1.0
 Codename      :	leuit
 ```
 ---
+#### Tujuan Pengembangan BantOS
+- Tujuan pengembangan BantOS adalah menghasilkan distro Linux yang sesuai dengan kebutuhan pengguna linux pemula, khususnya untuk dunia pendidikan, dan pemerintahan. |
+- Menghasilkan distro linux yang didesain dengan tampilan grafis dan tema yang menampilkan ciri khas Banten. |
+- Adanya Pengembangan distro linux yang akan terus dilakukan secara terbuka kepada publik. |
+
 #### Mengenal Sistem Operasi Linux
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
