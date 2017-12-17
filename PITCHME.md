@@ -20,6 +20,16 @@ Leuit merupakan bangunan tradisional masyarakat Banten untuk menyimpan padi yang
 - Lebih aman terhadap virus |
 - Menerapkan Tema Seni dan Budaya Khas Banten |
 - Panduan, bantuan dan dukungan penggunaan BantOS mudah diperoleh. |
+---
+### Rilis Versi Bantos
+BantOS 1.0 (Leuit), diturunkan dari Ubuntu 16.04 LTS, dirilis pada Desember 2017
+```
+Distributor ID:	Bantos
+Description:	linux bantos 1.0
+Release:	1.0
+Codename:	leuit
+```
+---
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
