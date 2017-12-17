@@ -14,3 +14,4 @@ published : true
 footnote : "Banten Development Presentasi Online"
 remote-control: true
 slide-number : true
+mousewheel : true
