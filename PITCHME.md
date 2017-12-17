@@ -1,6 +1,6 @@
-#### Banten OS
+## Banten OS
 
-##### Banten Government Open Source
+#### Banten Government Open Source
 
 ---
 
