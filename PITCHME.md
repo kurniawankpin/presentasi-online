@@ -27,8 +27,15 @@ Distributor ID:	Bantos
 Description   :	linux bantos 1.0
 Release       :	1.0
 Codename      :	leuit
-```
+``` 
 ---
+BantOS 1.0 Nama kode Leuit
+- LEUIT dalam kosa kata bahasa Sunda artinya adalah :  LUMBUNG PADI yaitu sebuah bangunan yang letaknya terpisah dari Imah Gede / Rumah Induk tempat berkumpulnya keluarga atau handai taulan. |
+- Fungsi dari leuit adalah tempat penyimpanan gabah yang memiliki kemampuan tahan cuaca, tahan hama penyakit, dan memiliki sistem tata udara yang baik. |
+- Leuit yang dibangun secara sederhana sejatinya memiliki filosofi dan fungsi tersendiri. Penyimpanan padi di leuit mengajarkan kita tentang menjaga keberlangsungan sesuatu yang berguna dalam jangka waktu yang lama. |
+
+---
+
 #### Tujuan Pengembangan BantOS
 - Tujuan pengembangan BantOS adalah menghasilkan distro Linux yang sesuai dengan kebutuhan pengguna linux pemula, khususnya untuk dunia pendidikan, dan pemerintahan. |
 - Menghasilkan distro linux yang didesain dengan tampilan grafis dan tema yang menampilkan ciri khas Banten. |
