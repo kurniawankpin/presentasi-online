@@ -50,6 +50,9 @@ BantOS 1.0 Nama kode Leuit
 - Linux menggunakan sebuah license yang bernama GNU General Public License(GNU/GPL). Dengan GNU General Public License ini suatu aplikasi ( termasuk sistem operasi ) secara bebas digunakan dan disebarluaskan dimana pengguna bisa mendapatkan program baik dalam bentuk source code  maupun binary code.
 - Linux merupakan system operasi yang gratis, terbuka dan tentunya legal karena dibawa lisensi GNU/GPL.
 ---
+#### Aplikasi Perkantoran di BantOS
+##### WPS Office
+
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
