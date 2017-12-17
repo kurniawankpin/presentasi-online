@@ -25,9 +25,9 @@ Leuit merupakan bangunan tradisional masyarakat Banten untuk menyimpan padi yang
 BantOS 1.0 (Leuit), diturunkan dari Ubuntu 16.04 LTS, dirilis pada Desember 2017
 ```
 Distributor ID:	Bantos
-Description:	linux bantos 1.0
-Release:	1.0
-Codename:	leuit
+Description   :	linux bantos 1.0
+Release       :	1.0
+Codename      :	leuit
 ```
 ---
 
