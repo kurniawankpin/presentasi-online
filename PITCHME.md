@@ -43,12 +43,12 @@ BantOS 1.0 Nama kode Leuit
 
 #### Mengenal Sistem Operasi Linux
 
-- Linux merupakan sistem operasi yang barbasis UNIX.  UNIX sendiri adalah sebuah sistem operasi komputer yang diawali dari project Multics (Multiplexed Information and Computing Service) pada tahun 1965. |
-- UNIX didesain sebagai Sistem operasi yang portabel, multi-tasking dan multi-user. Unix mengubah proses komputasi secara terpusat dalam jaringan dari pada proses tunggal di komputer. |
-![Press Down Key](assets/down-arrow.png)
+- Linux merupakan sistem operasi yang barbasis UNIX.  UNIX sendiri adalah sebuah sistem operasi komputer yang diawali dari project Multics (Multiplexed Information and Computing Service) pada tahun 1965.
+- UNIX didesain sebagai Sistem operasi yang portabel, multi-tasking dan multi-user. Unix mengubah proses komputasi secara terpusat dalam jaringan dari pada proses tunggal di komputer.
+
 +++
-- Linux menggunakan sebuah license yang bernama GNU General Public License(GNU/GPL). Dengan GNU General Public License ini suatu aplikasi ( termasuk sistem operasi ) secara bebas digunakan dan disebarluaskan dimana pengguna bisa mendapatkan program baik dalam bentuk source code  maupun binary code. |
-- Linux merupakan system operasi yang gratis, terbuka dan tentunya legal karena dibawa lisensi GNU/GPL. |
+- Linux menggunakan sebuah license yang bernama GNU General Public License(GNU/GPL). Dengan GNU General Public License ini suatu aplikasi ( termasuk sistem operasi ) secara bebas digunakan dan disebarluaskan dimana pengguna bisa mendapatkan program baik dalam bentuk source code  maupun binary code.
+- Linux merupakan system operasi yang gratis, terbuka dan tentunya legal karena dibawa lisensi GNU/GPL.
 ---
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
