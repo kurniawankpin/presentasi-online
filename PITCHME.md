@@ -55,7 +55,7 @@ BantOS 1.0 Nama kode Leuit
 - WPS Office Writter
 ![WPS Writter](/assets/image/wps-office.png)
 +++
-- WPS Office spreadsheets
+- WPS Office Spreadsheets
 ![WPS Spreadsheets](/assets/image/wps-xls.png)
 +++
 - WPS Office Presentation
@@ -64,6 +64,9 @@ BantOS 1.0 Nama kode Leuit
 - Only Office
 ![Only Office](/assets/image/only-office.png)
 ---
+#### Aplikasi Pemutar Video dan Music di BantOS
+- Audacious
+
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
