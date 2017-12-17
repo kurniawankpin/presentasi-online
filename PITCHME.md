@@ -66,6 +66,13 @@ BantOS 1.0 Nama kode Leuit
 ---
 #### Aplikasi Pemutar Video dan Music di BantOS
 - Audacious
+![audacious](/assets/image/audacious.png)
++++
+- Rythmbox
+![Rythmbox](/assets/image/rythmbox.png)
++++
+- VLC
+![vlc](/assets/image/vlc.png)
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
