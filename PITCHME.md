@@ -12,14 +12,14 @@ BantOS adalah distro Linux turunan Ubuntu yang dikembangkan oleh Tim development
 Leuit merupakan bangunan tradisional masyarakat Banten untuk menyimpan padi yang memiliki filosofi dan fungsi tersendiri.
 ---
 
-## BantOS Features
+#### BantOS Features
 
-- Menggunakan Themes ramah pengguna linux pemula |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Ramah untuk pengguna linux pemula |
+- Memiliki koleksi perangkat lunak tersendiri yang sangat lengkap untuk kebutuhan perkantoran |
+- BantOS bisa didapatkan secara bebas tanpa perlu membayar lisensi |
+- Lebih aman terhadap virus |
+- Menerapkan Tema Seni dan Budaya Khas Banten |
+- Panduan, bantuan dan dukungan penggunaan BantOS mudah diperoleh. |
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
