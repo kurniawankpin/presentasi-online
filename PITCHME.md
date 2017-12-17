@@ -51,7 +51,9 @@ BantOS 1.0 Nama kode Leuit
 - Linux merupakan system operasi yang gratis, terbuka dan tentunya legal karena dibawa lisensi GNU/GPL.
 ---
 #### Aplikasi Perkantoran di BantOS
-##### WPS Office
+- WPS Office
+Sifatnya yang gratis, membuat WPS Office banyak diminati oleh mereka yang enggan menggunakan aplikasi office berbayar. Fiture yang di tawarkan juga sudah lebih dari cukup untuk mengerjakan tugas-tugas perkantoran (Writer, Spredsheet dan Presentation). 
+
 
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
