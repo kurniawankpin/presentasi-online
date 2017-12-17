@@ -30,9 +30,8 @@ Codename      :	leuit
 ``` 
 ---
 BantOS 1.0 Nama kode Leuit
-- LEUIT dalam kosa kata bahasa Sunda artinya adalah :  LUMBUNG PADI yaitu sebuah bangunan yang letaknya terpisah dari Imah Gede / Rumah Induk tempat berkumpulnya keluarga atau handai taulan. |
-- Fungsi dari leuit adalah tempat penyimpanan gabah yang memiliki kemampuan tahan cuaca, tahan hama penyakit, dan memiliki sistem tata udara yang baik. |
-- Leuit yang dibangun secara sederhana sejatinya memiliki filosofi dan fungsi tersendiri. Penyimpanan padi di leuit mengajarkan kita tentang menjaga keberlangsungan sesuatu yang berguna dalam jangka waktu yang lama. |
+- LEUIT dalam kosa kata bahasa Sunda artinya adalah :  LUMBUNG PADI yaitu sebuah bangunan yang letaknya terpisah dari Imah Gede / Rumah Induk yang digunakan untuk penyimpanan padi. |
+- Leuit yang dibangun secara sederhana sejatinya memiliki filosofi dan fungsi tersendiri, Penyimpanan padi di leuit mengajarkan kita tentang menjaga keberlangsungan sesuatu yang berguna dalam jangka waktu yang lama. |
 
 ---
 
