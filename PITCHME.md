@@ -79,9 +79,11 @@ BantOS 1.0 Nama kode Leuit
 
 <br>
 
-@fa[github gp-contact](gitpitch)
+@fa[github gp-contact](bantenprov)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
-### <span class="white">Banten Government Open Source</span>
+#### <span class="white">Banten Government Open Source</span>
+<br>
+Terimakasih
 
