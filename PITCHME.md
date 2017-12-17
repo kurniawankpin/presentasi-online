@@ -1,4 +1,4 @@
-#### Banten OS "BantOS"
+#### Banten OS
 
 ##### Banten Government Open Source
 
