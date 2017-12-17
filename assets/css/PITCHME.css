@@ -18,6 +18,9 @@ body {
   width: 100%;
   box-shadow : none;
 }
+body .reveal h1 {
+    font-size: 2.77em;
+}
 
 .reveal pre code {
   font-size: 1.2em;

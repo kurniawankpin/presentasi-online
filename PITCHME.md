@@ -1,7 +1,7 @@
 
 @title[Introduction]
 
-# Dis<span class="gold">KominfoST</span>
+# Dinas <span class="gold">KominfoST</span>
 
 #### Seksi Pengembangan Aplikasi Informatika.*
 <br>
