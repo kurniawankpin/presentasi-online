@@ -57,7 +57,7 @@ Done!
 +++
 Step 5. GET THE WORD OUT!
 ```
-https://gitpitch.com/$user/$repo/$branch
+https://gitpitch.com/bantenprov/presentasi-online/$branch
 ```
 ---
 @title[Tips]
