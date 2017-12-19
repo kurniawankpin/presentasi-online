@@ -44,13 +44,13 @@
 - SOP Kemanan Sistem
 - SOP Data center
 ---
-#### Evaluasi Teknologi Informatika OPD Tongkat I Banten 2017
+### Evaluasi Teknologi Informatika OPD Tongkat I Banten 2017
 #### PAPARAN LAPORAN AKHIR
 ---
-#### Target Evaluasi
-- 1. Websites and Aplikasi
-- 2. Performa & Keamanan Jaringan & Perangkat Keras
-- 3. Prosedur Standar Operasional
+### Target Evaluasi
+- Websites dan Aplikasi
+- Performa & Keamanan Jaringan & Perangkat Keras
+- Prosedur Standar Operasional
 ---
 
 ### Bergabung dalam pengembangan
