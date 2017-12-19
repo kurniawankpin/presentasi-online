@@ -19,8 +19,7 @@
 <span class="aside">Telah melaksanakan ...</span>
 
 ---
-
-### Pengembangan <span class="gray">Dashboard Pimpinan</span>[.](http://dashboard-01.dev.bantenprov.go.id/)
+- Pengembangan <span class="gray">Dashboard Pimpinan</span>[.](http://dashboard-01.dev.bantenprov.go.id/) |
 #### Pengembangan <span class="gray">Portal Provinsi Banten</span>[.](http://portal-01.dev.bantenprov.go.id/)
 ### Pengembangan <span class="gold">BantOS</span>[.](http://linux.dev.bantenprov.go.id/)
 #### Pengembangan <span class="gold">Bantenprov API</span>[.](http://api-01.dev.bantenprov.go.id/)
