@@ -68,6 +68,7 @@ Untuk *best viewing experience*
 tekan **F** key untuk fullscreen slideshow.
 
 ---
+@title[Slide Gambar]
 ### Slide Gambar
 ## [ Inline ]
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
@@ -86,5 +87,6 @@ Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 ![gambar](/assets/image/wps-office.png)
 
 ---
+@title[slide Video]
 
 ## Terimakasih
