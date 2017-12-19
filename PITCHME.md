@@ -130,16 +130,12 @@ Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
 #### Mengungkapkan Konsep Slide Piecemeal
 
 <br>
-
 Step through slide content in sequence to slowly reveal the bigger picture.
-
-#VSLIDE
-
 - Java
-- Groovy     <!-- .element: class="fragment" -->
-- Kotlin     <!-- .element: class="fragment" -->
-- Scala     <!-- .element: class="fragment" -->
-- The JVM rocks! <!-- .element: class="fragment" -->
+- Groovy  
+- Kotlin   
+- Scala   
+- The JVM rocks!
 
 #VSLIDE
 
