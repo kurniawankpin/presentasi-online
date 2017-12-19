@@ -121,4 +121,49 @@ Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
 ![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
 ---
+## Slide Fragmen
+<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+@fa[arrow-down]
+
+#VSLIDE
+
+#### Mengungkapkan Konsep Slide Piecemeal
+
+<br>
+
+Step through slide content in sequence to slowly reveal the bigger picture.
+
+#VSLIDE
+
+- Java
+- Groovy     <!-- .element: class="fragment" -->
+- Kotlin     <!-- .element: class="fragment" -->
+- Scala     <!-- .element: class="fragment" -->
+- The JVM rocks! <!-- .element: class="fragment" -->
+
+#VSLIDE
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Yogi</td>
+    <td>Hermawan</td>
+    <td>25</td>
+  </tr>
+  <tr class="fragment">
+    <td>Kokoh</td>
+    <td>Aulia</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>Fery</td>
+    <td>Pratama</td>
+    <td>43</td>
+  </tr>
+</table>
+---
 ## Terimakasih
