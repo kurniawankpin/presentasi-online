@@ -6,11 +6,7 @@
 
 ### Markdown Presentasi dalam Git*
 
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ] 
 
 ---
 
