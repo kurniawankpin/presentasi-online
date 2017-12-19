@@ -9,8 +9,13 @@ theme : night
 theme-override : assets/css/PITCHME.css
 logo : assets/image/banten-dev.png
 highlight : atom-one-light
-transition : zoom
+transition : concave
 published : true
 footnote : "Banten Development Presentasi Online"
 remote-control: true
 slide-number : true
+background : /assets/image/wallpaper.jpg
+background-size: cover
+remote-control: true
+slide-number : true
+mousewheel : true
