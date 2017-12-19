@@ -37,6 +37,11 @@ Step 3. GET THE WORD OUT!
 https://gitpitch.com/$user/$repo/$branch
 ```
 ---
+## Tip!
+Untuk the *best viewing experience*   
+tekan **F** key to go fullscreen.
+
+---
 ## Terimakasih
 
 
