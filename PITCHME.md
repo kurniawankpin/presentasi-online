@@ -24,6 +24,7 @@ Step 1. Membuat file PITCHME.md
 ```
 # Hello, World!  ---  ## The End.
 ```
+@fa[arrow-down]
 +++
 Step 2. Commit di Github
 ```shell
@@ -33,6 +34,7 @@ $ git push
 
 Done!
 ```
+@fa[arrow-down]
 +++
 Step 3. GET THE WORD OUT!
 ```
