@@ -44,6 +44,9 @@
 - SOP Kemanan Sistem
 - SOP Data center
 ---
+
+@title[Evaluasi TIK]
+
 ### Evaluasi Teknologi Informatika OPD Tongkat I Banten 2017
 #### PAPARAN LAPORAN AKHIR
 ---
@@ -133,6 +136,17 @@
 
 #### Efektifitas dan Efisiensitas
 - Apakah aplikasi dapat membantu pengguna atau sebaliknya
+
+<span style="font-size:0.6em; color:gray">Temuan</span>
+@fa[arrow-down]
+
++++
+
+#### Temuan: 
+- Website masih banyak menyimpan link kosong (dead link)
+- Framework website ada yang perlu diperbaiki, terkait penamaan link yang kurang tepat.
+- Masih ada aplikasi/website yang dihost diluar.
+
 ---
 
 ### Bergabung dalam pengembangan
