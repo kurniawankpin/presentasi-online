@@ -183,7 +183,7 @@
 <span style="font-size:0.6em; color:gray">Lanjut </span>
 @fa[arrow-down]
  
- +++
++++
  
  <table>
   <tr>
