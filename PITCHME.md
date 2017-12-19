@@ -48,9 +48,9 @@
 
 ---
 
-### Bergabung dalam pengembangan.
-<br>
-[Click here to learn more @fa[external-link fa-pad-left]](https://github.com/bantenprov)
+### Bergabung dalam pengembangan
+
+[Klik disini @fa[external-link fa-pad-left]](https://github.com/bantenprov)
 =======
 
 #### Banten Development Presentation Online
