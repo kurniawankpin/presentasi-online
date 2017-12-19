@@ -22,7 +22,7 @@
 #### Membuat slideshow konten dengan GitHub Flavored Markdown.
 #### Pada repository Pemerintah Provinsi Banten.
 
-Step 1. clone [repository github](https://github.com/bantenprov/presentasi-online)
+Step 1. clone repository github
 > https://github.com/bantenprov/presentasi-online
 
 @fa[arrow-down]
