@@ -73,7 +73,8 @@ tekan **F** key untuk fullscreen slideshow.
 ## [ Inline ]
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
-+++
+
+#VSLIDE
 #### Membuat Visual konten
 Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 <span style="font-size:0.6em; color:gray">Contoh Gambar.</span>
