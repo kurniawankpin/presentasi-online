@@ -34,6 +34,7 @@ Step 2. Membuat branch untuk presentasi anda
 ```shell
 $ git checkout -b NAMA-PRESESNTASI-ANDA .
 ```
+<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
 @title[Konten Slideshow]
