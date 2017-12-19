@@ -157,6 +157,7 @@
 +++
 
 #### Inventory  di Sarpras Diskominfo:
+<br>
 <table>
   <tr>
     <th>Nama Inventory</th>
