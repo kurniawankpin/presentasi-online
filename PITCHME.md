@@ -49,6 +49,11 @@ Untuk *best viewing experience*
 tekan **F** key untuk fullscreen slideshow.
 
 ---
+### Slide Gambar
+## [ Inline ]
+<span style="font-size:0.6em; color:gray">Press Down key for examples.</span>
+@fa[arrow-down]
+
 ## Terimakasih
 
 
