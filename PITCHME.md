@@ -245,7 +245,6 @@
 +++
 
 #### Gambar Topologi Jaringan
-<br>
 ![topologi jaringan](/assets/image/tpologi.png)
 
 <span style="font-size:0.6em; color:gray">Temuan</span>
@@ -254,7 +253,6 @@
 +++
 
 #### Temuan :
-<br>
 - Sistem kelistrikan di ruang server Diskominfo Sarana prasarana tidak memadai untuk dijadikan ruang server karena tidak menggunakan backup power.
 - Alat Pemadam kebakaran tidak memiliki jadwal maintenance
 - Tenaga pelaksana harian untuk maintenance di ruang server bukan tenaga ASN.
