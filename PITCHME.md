@@ -151,6 +151,50 @@
 
 ### Hasil Evaluasi Performa & Keamanan Jaringan Dan Perangkat Keras
 
+<span style="font-size:0.6em; color:gray">Inventory Sarpras Diskominfo</span>
+@fa[arrow-down]
+
+---
+
+#### Inventory  di Sarpras Diskominfo:
+<table>
+  <tr>
+    <th>Nama Inventory</th>
+    <th>Jumlah</th> 
+  </tr>
+  <tr>
+    <td>Jumlah Server Fisik</td>
+    <td>22 Unit</td>
+  </tr>
+   <tr>
+    <td>Router</td>
+    <td>5 Unit</td>
+  </tr>
+   <tr>
+    <td>Switch</td>
+    <td>2 Unit</td>
+  </tr>
+   <tr>
+    <td>Jaringan FO Deployed</td>
+    <td>96 Core</td>
+  </tr>
+   <tr>
+    <td>Gateway</td>
+    <td>2 Koneksi (Redundant)</td>
+  </tr>
+   <tr>
+    <td>Vlan</td>
+    <td>26 Vlan</td>
+  </tr>
+   <tr>
+    <td>UPS</td>
+    <td>1 Unit (18kVA) Rusak</td>
+  </tr>
+   <tr>
+    <td>Pemadam Portable</td>
+    <td>3 Unit</td>
+  </tr>
+</table>
 ---
 ### Bergabung dalam pengembangan
 
