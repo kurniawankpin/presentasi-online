@@ -4,9 +4,10 @@
 
 ---
 @title[PITCHME.md]
-GitPitch mengubah PITCHME.md menjadi
-interactive online and offline slideshows.
 
-Just like this one...
+#### GitPitch mengubah <span class="gold">PITCHME.md</span> menjadi
+#### interactive online and offline slideshows.
+<br>
+<span class="aside">Just like this one...</span>
 ---
 
