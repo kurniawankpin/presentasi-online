@@ -29,26 +29,11 @@
 - Pengembangan [Yankes](http://yankes-01.dev.bantenprov.go.id/)
 - Pengembangan [Simbada](http://simbada-01.dev.bantenprov.go.id/)
 - Pengembangan [Epormas](http://epormas-01.dev.bantenprov.go.id/)
-+++
+- Pengembangan [Banten SSO](https://sso.dev.bantenprov.go.id:9443/cas)
+- Pengembangan [Task Management](http://task-01.dev.bantenprov.go.id/)
 ---
 
-### Pengembangan <span class="gold">Banten SSO</span>[.](https://sso.dev.bantenprov.go.id:9443/cas)
-#### Pengembangan <span class="gold">Task Management</span>[.](http://task-01.dev.bantenprov.go.id/)
-
-
----
-
-
-?code=assets/md/hello.md&title=Step 1. PITCHME.md
-
-<br>
-#### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
-
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
-
----
-
-@title[Step 2. Git-Commit]
+@title[Peraturan Gubernur]
 
 ### <span class="gold">Peraturan Gubernur</span>
 <br>
