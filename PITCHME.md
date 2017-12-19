@@ -77,16 +77,40 @@
 ---
 
 ### Hasil Evaluasi Website dan Aplikasi
-<br>
-### Inventory :
+
+#### Inventory :
 - Jumlah Aplikasi = 28 <- tunggu konfirmasi hasil survey
 - Jumlah Website =  26 <- tunggu konfirmasi hasil survey
 
+<span style="font-size:0.6em; color:gray">Keamanan</span>
+@fa[arrow-down]
+
 +++
 
-### Keamanan : 
+#### Keamanan : 
 - Apakah db server dipassword
 - Pengujian pengecekan tipe data penyimpanan kata sandi pengguna (encrypted/not)
+
+<span style="font-size:0.6em; color:gray">Ketersediaan</span>
+@fa[arrow-down]
+
++++
+
+#### Ketersediaan :
+- Apakah memiliki sourcecode dalam bentuk lain
+- Apakah aplikasi /web hidup atau tidak
+
+<span style="font-size:0.6em; color:gray">Kerahasiaan</span>
+@fa[arrow-down]
+
++++
+
+#### Kerahasiaan :
+- Apakah aplikasi menerapkan password atau tidak
+- Apakah ada konsep role pengguna
+
+<span style="font-size:0.6em; color:gray">Integritas</span>
+@fa[arrow-down]
 
 +++
 
