@@ -10,21 +10,13 @@
 
 ---
 
-## Template Features
+## Gitpitch mengubah PITCHME.md menjadi
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
+- Interactive |
+- Offline dan Online Slideshow |
 - Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
 
----?code=src/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
-
+Just like this one... 
 ---
 
 @title[JavaScript Block]
