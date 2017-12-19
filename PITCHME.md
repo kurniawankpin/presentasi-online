@@ -178,6 +178,16 @@
     <td>Jaringan FO Deployed</td>
     <td>96 Core</td>
   </tr>
+  </table>
+  
+<span style="font-size:0.6em; color:gray">Lanjut </span>
+@fa[arrow-down]
+ 
+ <table>
+  <tr>
+    <th>Nama Inventory</th>
+    <th>Jumlah</th> 
+  </tr>
    <tr>
     <td>Gateway</td>
     <td>2 Koneksi (Redundant)</td>
@@ -195,6 +205,7 @@
     <td>3 Unit</td>
   </tr>
 </table>
+
 ---
 ### Bergabung dalam pengembangan
 
