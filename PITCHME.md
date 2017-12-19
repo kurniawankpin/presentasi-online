@@ -29,7 +29,7 @@
 - Pengembangan [Epormas](http://epormas-01.dev.bantenprov.go.id/)
 - Pengembangan [Banten SSO](https://sso.dev.bantenprov.go.id:9443/cas)
 - Pengembangan [Task Management](http://task-01.dev.bantenprov.go.id/)
-
+@fa[arrow-down]
 +++
 
 @title[Peraturan Gubernur]
