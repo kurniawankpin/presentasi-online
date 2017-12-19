@@ -64,6 +64,8 @@ Step 5. GET THE WORD OUT!
 https://gitpitch.com/bantenprov/presentasi-online/$branch
 ```
 ---
+#HSLIDE
+
 @title[Tips]
 ## Tips!
 Untuk *best viewing experience*   
@@ -91,6 +93,8 @@ Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 ![gambar](/assets/image/wps-office.png)
 
 ---
+#HSLIDE
+
 @title[slide Video]
 ## Slides Video
 ## [ Inline ]
@@ -119,5 +123,5 @@ Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
 ![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
 ---
-
+#HSLIDE
 ## Terimakasih
