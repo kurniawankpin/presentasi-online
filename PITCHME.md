@@ -25,6 +25,7 @@
 Step 1. clone repository github
 > https://github.com/bantenprov/presentasi-online
 
+<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
 @title[Buat branch]
