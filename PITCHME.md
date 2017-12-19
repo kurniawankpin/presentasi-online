@@ -24,6 +24,7 @@ Step 1. Membuat file PITCHME.md
 ```
 # Hello, World!  ---  ## The End.
 ```
+<span style="font-size:0.6em; color:gray">Press Down key for examples.</span>
 @fa[arrow-down]
 +++
 Step 2. Commit di Github
