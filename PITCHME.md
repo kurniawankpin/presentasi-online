@@ -10,8 +10,8 @@
 <br>
 <span class="aside">Just like this one...</span>
 ---
-#### No More <span class="gray">Keynote</span>.
-#### No More <span class="gray">Powerpoint</span>.
+#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
+#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
 <br>
 #### Menulis dengan <span class="gold">Markdown</span>.
 #### Kemudian  <span class="gold">Git-Commit di Github</span>.
@@ -20,13 +20,22 @@
 @title[Konten Slideshow]
 
 #### Membuat slideshow konten dengan GitHub Flavored Markdown.
-Step 1. Membuat file PITCHME.md
+#### Pada repository Pemerintah Provinsi Banten.
+
+Step 1. clone [repository github](https://github.com/bantenprov/presentasi-online)
+```
+```
+
+@title[Konten Slideshow]
+
+#### Membuat slideshow konten dengan GitHub Flavored Markdown.
+Step 2. Membuat file PITCHME.md
 ```
 # Hello, World!  ---  ## The End.
 ```
 @fa[arrow-down]
 +++
-Step 2. Commit di Github
+Step 3. Commit di Github
 ```shell
 $ git add PITCHME.md
 $ git commit -m "New slideshow content."
