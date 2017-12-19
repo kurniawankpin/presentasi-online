@@ -34,8 +34,10 @@ Done!
 +++
 Step 3. GET THE WORD OUT!
 ```
-https://gitpitch.com/user/repo/branch
+https://gitpitch.com/$user/$repo/$branch
 ```
 ---
+Terimakasih
+
 
 
