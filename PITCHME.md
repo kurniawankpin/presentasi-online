@@ -30,8 +30,8 @@ Step 1. clone repository github
 @title[Buat branch]
 
 Step 2. Membuat branch untuk presentasi anda
-```
-# git checkout -b NAMA-PRESESNTASI-ANDA .
+```shell
+$ git checkout -b NAMA-PRESESNTASI-ANDA .
 ```
 @fa[arrow-down]
 +++
