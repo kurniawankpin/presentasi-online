@@ -18,14 +18,12 @@
 ---
 
 #### Membuat slideshow konten dengan GitHub Flavored Markdown.
-Step 1. PITCHME.md
-Membuat file PITCHME.md
+Step 1. Membuat file PITCHME.md
 ```
 # Hello, World!  ---  ## The End.
 ```
 +++
-Step 2. Git Commit
-Commit di Github
+Step 2. Commit di Github
 ```shell
 $ git add PITCHME.md
 $ git commit -m "New slideshow content."
