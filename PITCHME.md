@@ -17,7 +17,7 @@
 #### Kemudian  <span class="gold">Git-Commit di Github</span>.
 ---
 
-@title[Konten Slideshow]
+@title[Fork Repository]
 
 #### Membuat slideshow konten dengan GitHub Flavored Markdown.
 #### Pada repository Pemerintah Provinsi Banten.
@@ -27,15 +27,23 @@ Step 1. clone repository github
 
 @fa[arrow-down]
 +++
+@title[Buat branch]
+
+Step 2. Membuat branch untuk presentasi anda
+```
+# git checkout -b NAMA-PRESESNTASI-ANDA .
+```
+@fa[arrow-down]
++++
 @title[Konten Slideshow]
 
-Step 2. Membuat file PITCHME.md
+Step 3. Membuat file PITCHME.md
 ```
 # Hello, World!  ---  ## The End.
 ```
 @fa[arrow-down]
 +++
-Step 3. Commit di Github
+Step 4. Commit di Github
 ```shell
 $ git add PITCHME.md
 $ git commit -m "New slideshow content."
@@ -45,7 +53,7 @@ Done!
 ```
 @fa[arrow-down]
 +++
-Step 3. GET THE WORD OUT!
+Step 5. GET THE WORD OUT!
 ```
 https://gitpitch.com/$user/$repo/$branch
 ```
@@ -57,6 +65,3 @@ tekan **F** key untuk fullscreen slideshow.
 
 ---
 ## Terimakasih
-
-
-
