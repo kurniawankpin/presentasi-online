@@ -54,7 +54,9 @@
 - Performa & Keamanan Jaringan & Perangkat Keras
 - Prosedur Standar Operasional
 ---
+
 ### Obyektif Evaluasi
+<br>
 - Keamanan
 - Ketersediaan
 - Kerahasiaan
@@ -63,6 +65,23 @@
 - Kehandalan
 - Efektifitas
 - Efisiensitas
+---
+
+### Metodologi Umum Pelaksanaan
+<br>
+- Pemberitahuan/Sosialisasi
+- Penjelasan onsite
+- Wawancara
+- Evaluasi Teknis Secara mandiri oleh konsultan
+- Konfirmasi
+- Tanda Tangan B.A. Evaluasi
+---
+
+### Hasil Evaluasi Website dan Aplikasi
+<br>
+Inventory :
+- Jumlah Aplikasi = 28 <- tunggu konfirmasi hasil survey
+- Jumlah Website =  26 <- tunggu konfirmasi hasil survey
 ---
 
 ### Bergabung dalam pengembangan
