@@ -138,7 +138,6 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 - The JVM rocks!
 
 #VSLIDE
-
 <table>
   <tr>
     <th>Firstname</th>
@@ -150,12 +149,10 @@ Step through slide content in sequence to slowly reveal the bigger picture.
     <td>Hermawan</td>
     <td>25</td>
   </tr>
-  <tr class="fragment">
     <td>Kokoh</td>
     <td>Aulia</td>
     <td>94</td>
   </tr>
-  <tr class="fragment">
     <td>Fery</td>
     <td>Pratama</td>
     <td>43</td>
