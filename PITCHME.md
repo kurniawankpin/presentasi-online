@@ -113,6 +113,27 @@
 @fa[arrow-down]
 
 +++
+#### Integritas:
+- Untuk web based, apakah di-hosting di Diskominfo juga atau tidak.
+- Apakah aplikasi menyediakan API
+- Untuk web based, apakah menggunakan alamat website .bantenprov.go.id atau tidak ?
+
+<span style="font-size:0.6em; color:gray">Skalabilitas & Kehandalan</span>
+@fa[arrow-down]
+
++++
+
+#### Skalabilitas & Kehandalan :
+- Apakah Aplikasi dapat menghandle traffic tinggi
+
+<span style="font-size:0.6em; color:gray">Efektifitas dan Efesiensitas</span>
+@fa[arrow-down]
+
++++
+
+#### Efektifitas dan Efisiensitas
+- Apakah aplikasi dapat membantu pengguna atau sebaliknya
+---
 
 ### Bergabung dalam pengembangan
 
