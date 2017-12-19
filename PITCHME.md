@@ -278,9 +278,10 @@
 +++
 
 #### Keamanan :
--- Prosedur masuk ruangan server.
--- Prosedur pengaksesan file/db dalam ruang server.
+- Prosedur masuk ruangan server.
+- Prosedur pengaksesan file/db dalam ruang server.
 <br>
+
 #### Ketersediaan :
 - Prosedur bila terjadi pemadaman listrik
 - Prosedur bila aplikasi/server crash
