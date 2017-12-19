@@ -154,7 +154,7 @@
 <span style="font-size:0.6em; color:gray">Inventory Sarpras Diskominfo</span>
 @fa[arrow-down]
 
----
++++
 
 #### Inventory  di Sarpras Diskominfo:
 <table>
