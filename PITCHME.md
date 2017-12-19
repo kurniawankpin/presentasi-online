@@ -63,8 +63,8 @@ Step 5. GET THE WORD OUT!
 ```
 https://gitpitch.com/bantenprov/presentasi-online/$branch
 ```
----
 #HSLIDE
+---
 
 @title[Tips]
 ## Tips!
