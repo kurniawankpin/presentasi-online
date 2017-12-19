@@ -49,14 +49,13 @@
 ---
 ### Target Evaluasi
 <br>
-
 - Websites dan Aplikasi
 - Performa & Keamanan Jaringan & Perangkat Keras
 - Prosedur Standar Operasional
 ---
 
 ### Obyektif Evaluasi
-<br>
+
 - Keamanan |
 - Ketersediaan |
 - Kerahasiaan |
@@ -68,7 +67,7 @@
 ---
 
 ### Metodologi Umum Pelaksanaan
-<br>
+
 - Pemberitahuan/Sosialisasi |
 - Penjelasan Onsite |
 - Wawancara |
@@ -79,13 +78,13 @@
 
 ### Hasil Evaluasi Website dan Aplikasi
 <br>
-#### Inventory :
+### Inventory :
 - Jumlah Aplikasi = 28 <- tunggu konfirmasi hasil survey
 - Jumlah Website =  26 <- tunggu konfirmasi hasil survey
 
 +++
 
-#### Keamanan : 
+### Keamanan : 
 - Apakah db server dipassword
 - Pengujian pengecekan tipe data penyimpanan kata sandi pengguna (encrypted/not)
 
