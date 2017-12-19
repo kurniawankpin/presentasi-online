@@ -12,9 +12,8 @@
 
 ##### Gitpitch mengubah PITCHME.md menjadi
 
-- Interactive |
-- Offline dan Online Slideshow |
-
+Interactive
+Offline dan Online Slideshow
 
 Just like this one... 
 ---
