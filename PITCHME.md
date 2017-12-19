@@ -18,7 +18,7 @@
 ---
 
 #### Membuat slideshow konten dengan GitHub Flavored Markdown.
-- Git Commit
+Step 1. Git Commit |
 ```shell
 $ git add PITCHME.md
 $ git commit -m "New slideshow content."
