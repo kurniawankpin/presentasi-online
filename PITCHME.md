@@ -17,6 +17,7 @@
 #### Seksi Pengembangan Aplikasi Informatika.
 <br>
 <span class="aside">Telah melaksanakan ...</span>
+
 ---
 #### Pengembangan Aplikasi
 <br>
