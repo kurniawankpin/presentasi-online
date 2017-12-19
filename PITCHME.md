@@ -47,6 +47,12 @@
 #### Evaluasi Teknologi Informatika OPD Tongkat I Banten 2017
 #### PAPARAN LAPORAN AKHIR
 ---
+#### Target Evaluasi
+- 1. Websites and Aplikasi
+- 2. Performa & Keamanan Jaringan & Perangkat Keras
+- 3. Prosedur Standar Operasional
+---
+
 ### Bergabung dalam pengembangan
 
 ### Tim Banten Development
