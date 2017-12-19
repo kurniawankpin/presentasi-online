@@ -16,3 +16,6 @@ remote-control: true
 slide-number : true
 background : /assets/image/wallpaper.jpg
 background-size: cover
+remote-control: true
+slide-number : true
+mousewheel : true
