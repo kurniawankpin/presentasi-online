@@ -275,6 +275,31 @@
 <span style="font-size:0.6em; color:gray"></span>
 @fa[arrow-down]
 
++++
+
+#### Keamanan :
+-- Prosedur masuk ruangan server.
+-- Prosedur pengaksesan file/db dalam ruang server.
+<br>
+#### Ketersediaan :
+- Prosedur bila terjadi pemadaman listrik
+- Prosedur bila aplikasi/server crash
+- Prosedur perawatan server 
+
+<span style="font-size:0.6em; color:gray">Kerahasiaan</span>
+@fa[arrow-down]
+
++++
+
+#### Kerahasiaan :
+- Prosedur handover credential jika terjadi mutasi karyawan.
+- Belum ada standar operasional yang baku disemua ruang server yang ada. Termasuk mekasnisme yang mengatur hal hal lainnya yang berhubungan dengan pengelolaan infrastruktur software maupun hardware yang baku.
+
+<span style="font-size:0.6em; color:gray">Isu yang Dihadapi</span>
+@fa[arrow-down]
+
++++
+
 ---
 
 ### Bergabung dalam pengembangan
