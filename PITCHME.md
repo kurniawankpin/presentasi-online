@@ -25,10 +25,8 @@
 Step 1. clone [repository github](https://github.com/bantenprov/presentasi-online)
 ```
 ```
-
 @title[Konten Slideshow]
 
-#### Membuat slideshow konten dengan GitHub Flavored Markdown.
 Step 2. Membuat file PITCHME.md
 ```
 # Hello, World!  ---  ## The End.
