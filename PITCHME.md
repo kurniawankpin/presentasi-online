@@ -37,7 +37,7 @@
 ### <span class="gold">Peraturan Gubernur</span>
 <br>
 
-- SOP Pengembangan Aplikasi |
+- SOP Pengembangan Aplikasi @[1](Mengatur cara pengajuan pengembangan aplikasi.) |
 - SOP Pengembangan Website |
 - SOP Kemanan Sistem |
 - SOP Data center |
