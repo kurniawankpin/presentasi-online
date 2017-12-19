@@ -10,4 +10,8 @@
 <br>
 <span class="aside">Just like this one...</span>
 ---
-
+#### Tidak Pakai <span class="gray">Keynote</span>.
+#### Tidak Pakai <span class="gray">Powerpoint</span>.
+<br>
+#### Menulis dengan <span class="gold">Markdown</span>.
+#### Kemudian  <span class="gold">Git-Commit in Github</span>.
