@@ -279,7 +279,7 @@
 
 #### Keamanan :
 - Prosedur masuk ruangan server.
-- Prosedur pengaksesan file/db dalam ruang server.
+- Prosedur pengaksesan file/database dalam ruang server.
 
 <span style="font-size:0.6em; color:gray">Ketersediaan</span>
 @fa[arrow-down]
@@ -340,6 +340,7 @@
 
 ---
 
-### Bergabung dalam pengembangan
+### SEKIAN
+# Dinas <span class="gold">KominfoST</span>
 
-### Tim Banten Development
+#### Seksi Pengembangan Aplikasi Informatika.*
