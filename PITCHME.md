@@ -26,6 +26,8 @@ $ git push
 
 Done!
 ```
++++
+Step 2. 
 ---
 
 
