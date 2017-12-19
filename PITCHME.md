@@ -10,11 +10,11 @@
 
 ---
 
-## Gitpitch mengubah PITCHME.md menjadi
+##### Gitpitch mengubah PITCHME.md menjadi
 
 - Interactive |
 - Offline dan Online Slideshow |
-- Custom CSS Styling |
+
 
 Just like this one... 
 ---
