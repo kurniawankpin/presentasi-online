@@ -45,7 +45,8 @@ Step 3. Membuat file PITCHME.md
 ```
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
-+++
+
+#VSLIDE
 Step 4. Commit di Github
 ```shell
 $ git add PITCHME.md
@@ -56,7 +57,8 @@ Done!
 ```
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
-+++
+
+#VSLIDE
 Step 5. GET THE WORD OUT!
 ```
 https://gitpitch.com/bantenprov/presentasi-online/$branch
@@ -79,7 +81,8 @@ tekan **F** key untuk fullscreen slideshow.
 Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 <span style="font-size:0.6em; color:gray">Contoh Gambar.</span>
 @fa[arrow-down]
-+++
+
+#VSLIDE
 
 ```
 ![contoh](/assets/image/gambar.jpg)
