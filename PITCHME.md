@@ -17,6 +17,8 @@
 #### Kemudian  <span class="gold">Git-Commit di Github</span>.
 ---
 
+@title[Konten Slideshow]
+
 #### Membuat slideshow konten dengan GitHub Flavored Markdown.
 Step 1. Membuat file PITCHME.md
 ```
