@@ -51,13 +51,23 @@ tekan **F** key untuk fullscreen slideshow.
 ---
 ### Slide Gambar
 ## [ Inline ]
-<span style="font-size:0.6em; color:gray">Press Down key for examples.</span>
+<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
 #### Membuat Visual konten
 <br>
 Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
+<span style="font-size:0.6em; color:gray">Contoh.</span>
+@fa[arrow-down]
++++
+```
+![contoh](/assets/image/gambar.jpg)
+```
+<br>
+![gambar](/assets/image/wps-office.png)
+
 ---
+
 ## Terimakasih
 
 
