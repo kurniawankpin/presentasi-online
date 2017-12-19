@@ -156,7 +156,7 @@
 
 +++
 
-#### Inventory  di Sarpras Diskominfo:
+#### Inventory  di Sarpras Diskominfo :
 <br>
 <table>
   <tr>
@@ -209,7 +209,38 @@
   </tr>
 </table>
 
+<span style="font-size:0.6em; color:gray">Inventory Sarpras CDC </span>
+@fa[arrow-down]
+
++++
+
+#### Inventory  di Sarpras CDC :
+<br>
+<table>
+  <tr>
+    <th>Nama Inventory</th>
+    <th>Jumlah</th> 
+  </tr>
+   <tr>
+    <td>Jumlah Server Fisik</td>
+    <td>9 Unit</td>
+  </tr>
+   <tr>
+    <td>Router</td>
+    <td>2 Unit</td>
+  </tr>
+   <tr>
+    <td>Switch</td>
+    <td>2 Unit</td>
+  </tr>
+   <tr>
+    <td>Gateway</td>
+    <td>2 Koneksi (Redundant)</td>
+  </tr>
+</table>
+
 ---
+
 ### Bergabung dalam pengembangan
 
 ### Tim Banten Development
