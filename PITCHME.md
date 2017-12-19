@@ -3,9 +3,8 @@
 ##### Pengantar Praktis untuk Presentasi Online
 
 ---
----?include=branch/bantos/PITCHME.md
 
-## Tips!
+### Pengembangan Aplikasi
 
 <br>
 
