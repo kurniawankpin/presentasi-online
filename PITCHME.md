@@ -88,5 +88,29 @@ Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 
 ---
 @title[slide Video]
+## Video Slides
+## [ Inline ]
+<span style="font-size:0.6em; color:gray">Press Down key for examples.</span> |
+<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Video-Slides" target="_blank">GitPitch Wiki</a> for details.</span>
+
+#VSLIDE
+
+#### Bring Your Presentations Alive
+
+<br>
+
+Embed *YouTube*, *Vimeo*, *MP4* and *WebM* inline on any slide.
+
+#VSLIDE
+
+![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
+
+#VSLIDE
+
+![Vimeo Video](https://player.vimeo.com/video/125471012)
+
+#VSLIDE
+
+![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
 ## Terimakasih
