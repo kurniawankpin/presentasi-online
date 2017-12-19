@@ -18,9 +18,14 @@
 ---
 
 #### Membuat slideshow konten dengan GitHub Flavored Markdown.
+- Git Commit
+```shell
+$ git add PITCHME.md
+$ git commit -m "New slideshow content."
+$ git push
 
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
-
+Done!
+```
 ---
 
 
