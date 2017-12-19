@@ -53,7 +53,11 @@ tekan **F** key untuk fullscreen slideshow.
 ## [ Inline ]
 <span style="font-size:0.6em; color:gray">Press Down key for examples.</span>
 @fa[arrow-down]
-
++++
+#### Membuat Visual konten
+<br>
+Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
+---
 ## Terimakasih
 
 
