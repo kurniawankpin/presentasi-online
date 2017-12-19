@@ -280,7 +280,11 @@
 #### Keamanan :
 - Prosedur masuk ruangan server.
 - Prosedur pengaksesan file/db dalam ruang server.
-<br>
+
+<span style="font-size:0.6em; color:gray">Ketersediaan</span>
+@fa[arrow-down]
+
++++
 
 #### Ketersediaan :
 - Prosedur bila terjadi pemadaman listrik
@@ -300,6 +304,39 @@
 @fa[arrow-down]
 
 +++
+
+#### Isu Yang Di hadapi
+- SDM ASN yang kurang banyak mengetahui kondisi aplikasi secara teknis hingga tim kesulitan mengambil informasi.
+- Counterpart yang menjadi sumber informasi teknis adalah pihak ketiga dan sulit bertemu karena lokasi tempat tinggal yang cukup jauh, dan kesibukannya di tempat lain.
+- Waktu yang tersedia cukup sempit, sehingga waktu untuk melakukan extracting data sangat terbatas
+
+<span style="font-size:0.6em; color:gray">Saran dan Rekomendasi</span>
+@fa[arrow-down]
+
++++
+
+#### Saran & Rekomendasi
+
+- Perlu adanya penambahan tenaga ahli IT sebagai ASN yang dapat menjalankan fungsi perawatan dan pengembangan IT karena bidang ini menyimpan informasi yang sangat vital.
+- Perlunya sistem penyediaan listrik cadangan untuk setiap perangkat di dalam lingkungan server dan node koneksi kepada pengguna untuk menjaga ketersediaan layanan
+
+<span style="font-size:0.6em; color:gray">Lanjut</span>
+@fa[arrow-down]
+
++++
+
+- Perlu adanya SOP untuk setiap kegiatan di bidang IT ini agar pengguna terlindungi dan akuntabilitas sistem tetap terjaga.
+- Perlunya sistem audit pada masing masing device dan aplikasi agar selalu terjaga akuntabilitasnya.
+- Setiap pengelola aplikasi seharusnya dilengkapi dengan SK yang juga menetapkan role/kewenangannya dalam aplikasi tersebut.
+
+<span style="font-size:0.6em; color:gray">Lanjut</span>
+@fa[arrow-down]
+
++++
+
+- Perlu ada mekanisme pembagian pengguna WIFI agar keamanan jaringan tetap terjaga. 
+- Pertimbangkan untuk memulai membangun aplikasi bridge untuk setiap aplikasi yang ada untuk kebutuhan penyatuan data / dashboard
+- Khusus aplikasi Monitoring perlu untuk di-redisign agar dapat menghandle proses refreshing data ke masing masing server yang dimonitor.
 
 ---
 
