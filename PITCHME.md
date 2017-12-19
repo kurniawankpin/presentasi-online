@@ -23,8 +23,9 @@
 #### Pada repository Pemerintah Provinsi Banten.
 
 Step 1. clone [repository github](https://github.com/bantenprov/presentasi-online)
-```
-```
+
+@fa[arrow-down]
++++
 @title[Konten Slideshow]
 
 Step 2. Membuat file PITCHME.md
