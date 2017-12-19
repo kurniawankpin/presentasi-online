@@ -79,7 +79,7 @@ Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 @fa[arrow-down]
 +++
 
-```shell
+```
 ![contoh](/assets/image/gambar.jpg)
 ```
 <br>
