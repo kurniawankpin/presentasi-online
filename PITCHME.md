@@ -47,7 +47,7 @@
 
 @title[Evaluasi TIK]
 
-### Evaluasi Teknologi Informatika OPD Tongkat I Banten 2017
+### Evaluasi Teknologi Informatika OPD Tingkat I Banten 2017
 #### PAPARAN LAPORAN AKHIR
 ---
 ### Target Evaluasi
