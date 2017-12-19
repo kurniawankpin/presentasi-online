@@ -272,6 +272,9 @@
 
 ### Hasil Evaluasi Prosedur Standar Operasional
 
+<span style="font-size:0.6em; color:gray"></span>
+@fa[arrow-down]
+
 ---
 
 ### Bergabung dalam pengembangan
