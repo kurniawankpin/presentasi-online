@@ -55,12 +55,12 @@ tekan **F** key untuk fullscreen slideshow.
 @fa[arrow-down]
 +++
 #### Membuat Visual konten
-<br>
 Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
-<span style="font-size:0.6em; color:gray">Contoh.</span>
+<span style="font-size:0.6em; color:gray">Contoh Gambar.</span>
 @fa[arrow-down]
 +++
-```
+
+```shell
 ![contoh](/assets/image/gambar.jpg)
 ```
 <br>
