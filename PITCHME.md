@@ -90,6 +90,7 @@ Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 @title[slide Video]
 ## Slides Video
 ## [ Inline ]
+
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 
@@ -99,7 +100,7 @@ Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 
 <br>
 
-Embed *YouTube*, *Vimeo*, *MP4* and *WebM* inline on any slide.
+Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
 
 #VSLIDE
 
@@ -114,4 +115,5 @@ Embed *YouTube*, *Vimeo*, *MP4* and *WebM* inline on any slide.
 ![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
 ---
+
 ## Terimakasih
