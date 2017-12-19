@@ -239,6 +239,15 @@
   </tr>
 </table>
 
+<span style="font-size:0.6em; color:gray">Gambar Topologi</span>
+@fa[arrow-down]
+
++++
+
+#### Gambar Topologi Jaringan
+<br>
+![topologi jaringan](/assets/image/tpologi.png)
+
 ---
 
 ### Bergabung dalam pengembangan
