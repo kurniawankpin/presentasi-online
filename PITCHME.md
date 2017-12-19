@@ -4,6 +4,7 @@
 
 ---
 
-### Presentasi Pengembangan Aplikasi 
----?include=aplikasi/yankes/PITCHME.md
+GitPitch mengubah PITCHME.md menjadi
+interactive online and offline slideshows.
+---
 
