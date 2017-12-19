@@ -10,24 +10,41 @@
 <br>
 <span class="aside">Just like this one...</span>
 ---
-#### No More <span class="gray">Keynote</span>.
-#### No More <span class="gray">Powerpoint</span>.
+#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
+#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
 <br>
 #### Menulis dengan <span class="gold">Markdown</span>.
 #### Kemudian  <span class="gold">Git-Commit di Github</span>.
 ---
 
-@title[Konten Slideshow]
+@title[Fork Repository]
 
 #### Membuat slideshow konten dengan GitHub Flavored Markdown.
-Step 1. Membuat file PITCHME.md
+#### Pada repository Pemerintah Provinsi Banten.
+
+Step 1. clone repository github
+> https://github.com/bantenprov/presentasi-online
+
+@fa[arrow-down]
++++
+@title[Buat branch]
+
+Step 2. Membuat branch untuk presentasi anda
+```
+# git checkout -b NAMA-PRESESNTASI-ANDA .
+```
+@fa[arrow-down]
++++
+@title[Konten Slideshow]
+
+Step 3. Membuat file PITCHME.md
 ```
 # Hello, World!  ---  ## The End.
 ```
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
-Step 2. Commit di Github
+Step 4. Commit di Github
 ```shell
 $ git add PITCHME.md
 $ git commit -m "New slideshow content."
@@ -38,7 +55,7 @@ Done!
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
-Step 3. GET THE WORD OUT!
+Step 5. GET THE WORD OUT!
 ```
 https://gitpitch.com/$user/$repo/$branch
 ```
@@ -69,6 +86,3 @@ Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
 ---
 
 ## Terimakasih
-
-
-
