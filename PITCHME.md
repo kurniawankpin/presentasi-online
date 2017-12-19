@@ -48,9 +48,21 @@
 #### PAPARAN LAPORAN AKHIR
 ---
 ### Target Evaluasi
+<br>
+
 - Websites dan Aplikasi
 - Performa & Keamanan Jaringan & Perangkat Keras
 - Prosedur Standar Operasional
+---
+### Obyektif Evaluasi
+- Keamanan
+- Ketersediaan
+- Kerahasiaan
+- Integritas
+- Skalabilitas
+- Kehandalan
+- Efektifitas
+- Efisiensitas
 ---
 
 ### Bergabung dalam pengembangan
