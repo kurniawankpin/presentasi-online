@@ -255,6 +255,12 @@
 #### Temuan :
 - Sistem kelistrikan di ruang server Diskominfo Sarana prasarana tidak memadai untuk dijadikan ruang server karena tidak menggunakan backup power.
 - Alat Pemadam kebakaran tidak memiliki jadwal maintenance
+
+<span style="font-size:0.6em; color:gray">Lanjut</span>
+@fa[arrow-down]
+
++++
+
 - Tenaga pelaksana harian untuk maintenance di ruang server bukan tenaga ASN.
 - Jaringan FO di KP3B ada yang putus dan hasil pengujian yang kurang optimal.
 - Semua WIFI menggunakan proteksi standar, yaitu security key. 
