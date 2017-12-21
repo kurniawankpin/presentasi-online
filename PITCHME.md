@@ -7,11 +7,11 @@
 
 #### Geoportal <span class="gold">Palapa</span> dikembangkan oleh
 ##### Badan Informasi Geospasial (BIG).
-##### dapat digunakan secara bebas oleh Kementerian dan Lembaga, Pemerintah Provinsi, Pemerintah Kota dan Kabupaten,
+###### dapat digunakan <span class="gold">secara bebas</span> oleh Kementerian dan Lembaga, Pemerintah Provinsi, Pemerintah Kota dan Kabupaten,
 
 ---
 @title[Simpul Jaringan]
-##### Sebagai aplikasi simpul jaringan di instansi masing-masing.
+##### Sebagai aplikasi <span class="gold">simpul jaringan</span> di instansi masing-masing.
 ##### Geoportal PALAPA ini merupakan aplikasi open source.
 
 <br>
