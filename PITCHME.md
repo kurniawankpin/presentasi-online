@@ -19,19 +19,14 @@
 <span class="aside">Geoportal memiliki fungsi...</span>
 ---
 
-#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
-#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
-<br>
-#### Menulis dengan <span class="gold">Markdown</span>.
-#### Kemudian  <span class="gold">Git-Commit di Github</span>.
+#### Sebagai pengguna <span class="gold">Pengguna</span>.
+```shell
+Pengguna dapat melakukan pencarian dan visualisasi data dan informasi geospasial yang tersedia pada simpul. Pengguna internal dapat mengunggah, mengelola dan membagi data dan informasi spasial.
+```
+@fa[arrow-down]
++++
 
----
 
-#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
-#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
-<br>
-#### Menulis dengan <span class="gold">Markdown</span>.
-#### Kemudian  <span class="gold">Git-Commit di Github</span>.
 
 ---
 
