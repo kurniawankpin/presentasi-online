@@ -9,6 +9,7 @@
 <br>
 <span class="aside">Just like this one...</span>
 ---
+
 #### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
 #### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
 <br>
