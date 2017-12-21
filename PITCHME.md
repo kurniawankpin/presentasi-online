@@ -5,7 +5,7 @@
 @title[Palapa]
 
 #### <span class="gold">Palapa</span>
-Adalah aplikasi simpul jaringan yang berfungsi sebagai geoportal yang menyediakan katalog dan metadata serta layanan GIS berbasis web. Aplikasi simpul jaringan PALAPA bertujuan sebagai sarana berbagi data (data sharing), publikasi dan disseminasi data. Aplikasi simpul jaringan PALAPA yang dibangun merupakan aplikasi yang open source atau kode sumber yang terbuka yang dinamakan PALAPA.
+Adalah aplikasi simpul jaringan yang berfungsi sebagai geoportal yang menyediakan katalog dan metadata serta layanan GIS berbasis web. Aplikasi simpul jaringan PALAPA bertujuan sebagai sarana berbagi data (data sharing), publikasi dan disseminasi data.
 ---
 
 @title[Geoportal Palapa]
@@ -151,7 +151,7 @@ Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 
-#VSLIDE
+# VSLIDE
 
 #### Mengungkapkan Konsep Slide Piecemeal
 
@@ -163,7 +163,7 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 - Scala   
 - The JVM rocks!
 
-#VSLIDE
+# VSLIDE
 <table>
   <tr>
     <th>Firstname</th>
@@ -187,8 +187,4 @@ Step through slide content in sequence to slowly reveal the bigger picture.
   </tr>
 </table>
 ---
-<<<<<<< HEAD
 ## Terimakasih
-=======
-## Terimakasih
->>>>>>> 0ecf1625a34602431cf548aa258dfc5cbc2a5240
