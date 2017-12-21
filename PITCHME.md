@@ -29,8 +29,10 @@ Release       : 1.0
 Codename      : leuit
 ```
 ---
-BantOS 1.0 Nama kode Leuit
+### BantOS 1.0 Nama kode Leuit
 - LEUIT dalam kosa kata bahasa Sunda artinya adalah : LUMBUNG PADI yaitu sebuah bangunan yang letaknya terpisah dari Imah Gede / Rumah Induk yang digunakan untuk penyimpanan padi. |
++++
+### BantOS 1.0 Nama kode Leuit
 - Leuit yang dibangun secara sederhana sejatinya memiliki filosofi dan fungsi tersendiri, Penyimpanan padi di leuit mengajarkan kita tentang menjaga keberlangsungan sesuatu yang berguna dalam jangka waktu yang lama. |
 
 ---
