@@ -1,6 +1,6 @@
-# Presentasi
-Kumpulan Presentasi
+# Presentasi Palapa BIG
 
+## Navigasi
 ```
 Navigate : Space / Arrow Keys | M - Menu | F - Fullscreen | O - Overview | B - Blackout | S - Speaker | ? - Help
 ```
