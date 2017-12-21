@@ -102,7 +102,7 @@ Reinforce key points to drive home your message.
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
@@ -127,7 +127,7 @@ online @ [GitPitch.com](https://gitpitch.com) :)
 Note:
 
 You can use the links on this slide to explore alternate
-versions of this template. 
+versions of this template.
 
 ---
 
@@ -158,4 +158,3 @@ Note:
 Now it's your turn. The fastest way from idea to presentation
 is to download a GitPitch presentation template. Visit the
 Template Gallery [here](https://gitpitch.com/templates.html).
-
