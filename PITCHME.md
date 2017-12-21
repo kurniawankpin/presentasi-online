@@ -161,4 +161,8 @@ Step through slide content in sequence to slowly reveal the bigger picture.
   </tr>
 </table>
 ---
+<<<<<<< HEAD
 ## Terimakasih
+=======
+## Terimakasih
+>>>>>>> 0ecf1625a34602431cf548aa258dfc5cbc2a5240
