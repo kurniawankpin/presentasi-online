@@ -10,7 +10,6 @@ theme-override : assets/css/PITCHME.css
 logo : assets/image/banten-dev.png
 highlight : atom-one-light
 transition : concave
-=======
 transition : slide
 published : true
 footnote : "BantOS Presentasi Online"
@@ -20,5 +19,4 @@ background : /assets/image/wallpaper.jpg
 background-size: cover
 remote-control: true
 slide-number : true
-=======
 mousewheel : true
