@@ -13,22 +13,25 @@
 ---
 @title[Simpul Jaringan]
 ##### Sebagai aplikasi <span class="gold">simpul jaringan</span> di instansi masing-masing.
-##### Geoportal PALAPA ini merupakan aplikasi open source.
+##### Geoportal PALAPA ini merupakan aplikasi <span class="gold">open source</span>.
 
 <br>
 <span class="aside">Geoportal memiliki fungsi...</span>
 ---
+@title[Sebagai Pengguna]
 
 #### Sebagai <span class="gold">Pengguna</span>.
 > Pengguna dapat melakukan pencarian dan visualisasi data dan informasi geospasial yang tersedia pada simpul. Pengguna internal dapat mengunggah, mengelola dan membagi data dan informasi spasial.
 @fa[arrow-down]
 +++
 
+@title[Sebagai Administrator]
 #### Sebagai <span class="gold">Administrator</span>.
 > Platform PALAPA dapat diandalkan dan dikembangkan untuk membangun aplikasi simpul jaringan sebagai bagian dari JIGN. Framework yang digunakan mendukung standar OGC dan ISO. Disamping itu juga pengelolaan metadata yang terintegrasi d engan data dan informasi geospasial.
 @fa[arrow-down]
 +++
 
+@title[Sebagai Pengembang]
 #### Sebagai <span class="gold">Pengembang</span>.
 > PALAPA dikembangkan menggunakan project open source yang terpercaya seperti GeoServer, PostGIS, OpenLayers dan pyCSW. API tersedia dan dapat dikustomisasi dan diintegrasikan dengan aplikasi lainnya.
 @fa[arrow-down]
