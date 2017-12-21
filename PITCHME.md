@@ -1,7 +1,6 @@
-## Banten OS
-
-#### Banten Government Open Source
-
+### Palapa BIG
+##### Bekerja sama dengan 
+### Pemerintah Provinsi Banten
 ---
 
 ### BantOS !
