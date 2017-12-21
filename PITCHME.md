@@ -1,164 +1,87 @@
 ### Palapa BIG
-
-##### Bekerja sama dengan Pemerintah Provinsi Banten
-
----
-@title[PITCHME.md]
-
-#### GitPitch mengubah <span class="gold">PITCHME.md</span> menjadi
-#### interactive online and offline slideshows.
-<br>
-<span class="aside">Just like this one...</span>
----
-#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
-#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
-<br>
-#### Menulis dengan <span class="gold">Markdown</span>.
-#### Kemudian  <span class="gold">Git-Commit di Github</span>.
+##### Bekerja sama dengan 
+### Pemerintah Provinsi Banten
 ---
 
-@title[Fork Repository]
+### BantOS !
 
-#### Membuat slideshow konten dengan GitHub Flavored Markdown.
-#### Pada repository Pemerintah Provinsi Banten.
+- BantOS merupakan sistem operasi komputer berbasis open source yang dikembangkan oleh Tim Development Pemerintah Provinsi Banten untuk mendukung penerapan teknologi informasi di Pemerintahan Provinsi Banten. |
+- Sistem operasi ini telah dilengkapi dengan aplikasi perkantoran lengkap, WPS Office dan Only Office. Kedua aplikasi tersebut tersedia dalam sekali instal BantOS |
+---
 
-Step 1. clone repository github
-> https://github.com/bantenprov/presentasi-online
+### BantOS Features
 
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
+- Ramah untuk pengguna linux pemula |
+- Memiliki koleksi perangkat lunak tersendiri yang sangat lengkap untuk kebutuhan perkantoran |
+- BantOS bisa didapatkan secara bebas tanpa perlu membayar lisensi |
+- Lebih aman terhadap virus |
+- Menerapkan Tema Seni dan Budaya Khas Banten |
+- Panduan, bantuan dan dukungan penggunaan BantOS mudah diperoleh. |
+---
+
+### Rilis Versi BantOS
+BantOS 1.0 (Leuit), diturunkan dari Linux Ubuntu 16.04 LTS, dirilis pada Desember 2017
+```
+Distributor ID: Bantos
+Description   : linux bantos 1.0
+Release       : 1.0
+Codename      : leuit
+``` 
+---
+BantOS 1.0 Nama kode Leuit
+- LEUIT dalam kosa kata bahasa Sunda artinya adalah :  LUMBUNG PADI yaitu sebuah bangunan yang letaknya terpisah dari Imah Gede / Rumah Induk yang digunakan untuk penyimpanan padi. |
+- Leuit yang dibangun secara sederhana sejatinya memiliki filosofi dan fungsi tersendiri, Penyimpanan padi di leuit mengajarkan kita tentang menjaga keberlangsungan sesuatu yang berguna dalam jangka waktu yang lama. |
+
+---
+
+#### Tujuan Pengembangan BantOS
+- Tujuan pengembangan BantOS adalah menghasilkan distro Linux yang sesuai dengan kebutuhan pengguna linux pemula, khususnya untuk dunia pendidikan, dan pemerintahan. |
+- Menghasilkan distro linux yang didesain dengan tampilan grafis dan tema yang menampilkan ciri khas Banten. |
+- Adanya Pengembangan distro linux yang akan terus dilakukan secara terbuka kepada publik. |
+---
+
+#### Mengenal Sistem Operasi Linux
+
+- Linux merupakan sistem operasi yang barbasis UNIX.  UNIX sendiri adalah sebuah sistem operasi komputer yang diawali dari project Multics (Multiplexed Information and Computing Service) pada tahun 1965.
+- UNIX didesain sebagai Sistem operasi yang portabel, multi-tasking dan multi-user. Unix mengubah proses komputasi secara terpusat dalam jaringan dari pada proses tunggal di komputer.
+
 +++
-@title[Buat branch]
+- Linux menggunakan sebuah license yang bernama GNU General Public License(GNU/GPL). Dengan GNU General Public License ini suatu aplikasi ( termasuk sistem operasi ) secara bebas digunakan dan disebarluaskan dimana pengguna bisa mendapatkan program baik dalam bentuk source code  maupun binary code.
+- Linux merupakan system operasi yang gratis, terbuka dan tentunya legal karena dibawa lisensi GNU/GPL.
+---
+#### Aplikasi Perkantoran di BantOS
 
-Step 2. Membuat branch untuk presentasi anda
-```shell
-$ git checkout -b NAMA-PRESESNTASI-ANDA .
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
+- WPS Office Writter
+![WPS Writter](/assets/image/wps-office.png)
 +++
-@title[Konten Slideshow]
-
-Step 3. Membuat file PITCHME.md
-```
-# Hello, World!  ---  ## The End.
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
-
-#VSLIDE
-Step 4. Commit di Github
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
-
-#VSLIDE
-Step 5. GET THE WORD OUT!
-```
-https://gitpitch.com/bantenprov/presentasi-online/$branch
-```
+- WPS Office Spreadsheets
+![WPS Spreadsheets](/assets/image/wps-xls.png)
++++
+- WPS Office Presentation
+![WPS Presentation](/assets/image/wps-presentation.png)
++++
+- Only Office
+![Only Office](/assets/image/only-office.png)
 ---
-
-@title[Tips]
-## Tips!
-Untuk *best viewing experience*   
-tekan **F** key untuk fullscreen slideshow.
+#### Aplikasi Pemutar Video dan Music di BantOS
+- Audacious
+![audacious](/assets/image/audacious.png)
++++
+- Rythmbox
+![Rythmbox](/assets/image/rythmbox.png)
++++
+- VLC
+![vlc](/assets/image/vlc.png)
 
 ---
-@title[Slide Gambar]
-### Slide Gambar
-## [ Inline ]
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
-
-#VSLIDE
-#### Membuat Visual konten
-Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
-<span style="font-size:0.6em; color:gray">Contoh Gambar.</span>
-@fa[arrow-down]
-
-#VSLIDE
-
-```
-![contoh](/assets/image/gambar.jpg)
-```
-<br>
-![gambar](/assets/image/wps-office.png)
-
----
-
-@title[slide Video]
-## Slides Video
-## [ Inline ]
-
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
-
-#VSLIDE
-
-#### Jadikan Presentasi Anda Hidup
+### Berkolaborasi dalam pengembangan
 
 <br>
 
-Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
+@fa[github gp-contact](bantenprov)
 
-#VSLIDE
+---?image=assets/image/gitpitch-audience.jpg
 
-![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
-
-#VSLIDE
-
-![Vimeo Video](https://player.vimeo.com/video/125471012)
-
-#VSLIDE
-
-![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
-
----
-## Slide Fragmen
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
-
-#VSLIDE
-
-#### Mengungkapkan Konsep Slide Piecemeal
-
+#### <span class="white">Banten Government Open Source</span>
 <br>
-Step through slide content in sequence to slowly reveal the bigger picture.
-- Java
-- Groovy  
-- Kotlin   
-- Scala   
-- The JVM rocks!
-
-#VSLIDE
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Yogi</td>
-    <td>Hermawan</td>
-    <td>25</td>
-  </tr>
-   <tr>
-    <td>Kokoh</td>
-    <td>Aulia</td>
-    <td>94</td>
-  </tr>
-   <tr>
-    <td>Fery</td>
-    <td>Pratama</td>
-    <td>43</td>
-  </tr>
-</table>
----
-## Terimakasih
+Terimakasih
