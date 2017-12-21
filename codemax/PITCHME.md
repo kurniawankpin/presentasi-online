@@ -105,4 +105,3 @@ http.createServer(function (request, response) {
 
 ### Get your presentation started!
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/blue)
-
