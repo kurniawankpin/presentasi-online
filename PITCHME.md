@@ -16,7 +16,7 @@
 ##### Geoportal PALAPA ini merupakan aplikasi open source.
 
 <br>
-<span class="aside">Geoportal memiliki fitur...</span>
+<span class="aside">Geoportal memiliki fungsi...</span>
 ---
 
 #### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
@@ -24,6 +24,15 @@
 <br>
 #### Menulis dengan <span class="gold">Markdown</span>.
 #### Kemudian  <span class="gold">Git-Commit di Github</span>.
+
+---
+
+#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
+#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
+<br>
+#### Menulis dengan <span class="gold">Markdown</span>.
+#### Kemudian  <span class="gold">Git-Commit di Github</span>.
+
 ---
 
 @title[Fork Repository]
