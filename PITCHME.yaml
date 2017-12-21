@@ -9,20 +9,16 @@ theme : night
 theme-override : assets/css/PITCHME.css
 logo : assets/image/banten-dev.png
 highlight : atom-one-light
-<<<<<<< HEAD
 transition : concave
 =======
 transition : slide
->>>>>>> bca6dd3908544ac728a09792f27896ce79e9d3c0
 published : true
-footnote : "Banten Development Presentasi Online"
+footnote : "BantOS Presentasi Online"
 remote-control: true
 slide-number : true
-<<<<<<< HEAD
 background : /assets/image/wallpaper.jpg
 background-size: cover
 remote-control: true
 slide-number : true
 =======
->>>>>>> bca6dd3908544ac728a09792f27896ce79e9d3c0
 mousewheel : true
