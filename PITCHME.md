@@ -1,5 +1,6 @@
-### Tim Banten Development
-##### Pengantar Praktis Markdown Presentasi Online
+### Badan Informasi Geospasial
+##### Bekerjasama dengan
+### Pemerintah Provinsi Banten
 
 ---
 @title[PITCHME.md]
