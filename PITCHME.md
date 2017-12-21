@@ -19,14 +19,18 @@
 <span class="aside">Geoportal memiliki fungsi...</span>
 ---
 
-#### Sebagai pengguna <span class="gold">Pengguna</span>.
-```shell
-Pengguna dapat melakukan pencarian dan visualisasi data dan informasi geospasial yang tersedia pada simpul. Pengguna internal dapat mengunggah, mengelola dan membagi data dan informasi spasial.
-```
+#### Sebagai <span class="gold">Pengguna</span>.
+
+> Pengguna dapat melakukan pencarian dan visualisasi data dan informasi geospasial yang tersedia pada simpul. Pengguna internal dapat mengunggah, mengelola dan membagi data dan informasi spasial.
 @fa[arrow-down]
 +++
 
-
+#### Sebagai pengguna <span class="gold">Administrator</span>.
+```shell
+Platform PALAPA dapat diandalkan dan dikembangkan untuk membangun aplikasi simpul jaringan sebagai bagian dari JIGN. Framework yang digunakan mendukung standar OGC dan ISO. Disamping itu juga pengelolaan metadata yang terintegrasi d engan data dan informasi geospasial.
+```
+@fa[arrow-down]
++++
 
 ---
 
