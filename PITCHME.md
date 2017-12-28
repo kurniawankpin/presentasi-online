@@ -6,6 +6,7 @@
 <br>
 <span class="aside">Dengan Bangga Mempersembahkan</span>
 
+
 ---
 
 @title[Introduction]
@@ -41,6 +42,7 @@
 - Untuk mempermudah pengelolaan manajemen rumah sakit. |
 - untuk mempermudah pendataan masyarakat yang sakit pada waktu tertentu. |
 - Untuk mempermudah pendataan jumlah rumah sakit, dokter dan ruang rawat inap yang terdapat di provinsi Banten. |
+
 
 ---
 
