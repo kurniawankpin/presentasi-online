@@ -1,164 +1,199 @@
-### Tim Banten Development
-##### Pengantar Praktis Markdown Presentasi Online
+## Aplikasi berbasis Website <span class="white">Dashboard Pimpinan</span> 
 
 ---
-@title[PITCHME.md]
 
-#### GitPitch mengubah <span class="gold">PITCHME.md</span> menjadi
-#### *interactive online* and *offline slideshows*.
-<br>
-<span class="aside">Just like this one...</span>
+### Aplikasi Dashboard Pimpinan
+Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam.  
+
 ---
 
-#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
-#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
-<br>
-#### Menulis dengan <span class="gold">Markdown</span>.
-#### Kemudian  <span class="gold">Git-Commit di Github</span>.
+### Tujuan Dashboard Pimpinan
+- Dashboard Pimpinan adalah suatu aplikasi untuk memantau setiap OPD (Organisasi perangkat Daerah) di pemerintahan Banten |
+- Dashboard merupakan alat  yang digunakan untuk  mengevaluasi  proses  yang  sedang  berjalan, memonitor kinerja yang sedang berjalan, serta untuk memprediksi  kondisi  di  masa  mendatang |
+
 ---
 
-@title[Fork Repository]
+### Tampilan website Dashboard Pimpinan
 
-#### Membuat slideshow konten dengan GitHub Flavored Markdown.
-#### Pada repository Pemerintah Provinsi Banten.
-
-Step 1. clone repository github
-> https://github.com/bantenprov/presentasi-online
-
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:white">Tampilan Awal.</span>
 @fa[arrow-down]
 +++
-@title[Buat branch]
 
-Step 2. Membuat branch untuk presentasi anda
-```shell
-$ git checkout -b NAMA-PRESESNTASI-ANDA .
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+##### Tampilan Depan Dashboard Pimpinan
+![tampilan awal](/assets/image/tampilan-awal-dashboard.png)
+
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
 @fa[arrow-down]
 +++
-@title[Konten Slideshow]
 
-Step 3. Membuat file PITCHME.md
-```
-# Hello, World!  ---  ## The End.
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
-
-#VSLIDE
-Step 4. Commit di Github
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
-
-#VSLIDE
-Step 5. GET THE WORD OUT!
-```
-https://gitpitch.com/bantenprov/presentasi-online/$branch
-```
----
-
-@title[Tips]
-## Tips!
-Untuk *best viewing experience*   
-tekan **F** key untuk fullscreen slideshow.
-
----
-@title[Slide Gambar]
-### Slide Gambar
-## [ Inline ]
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
-
-#VSLIDE
-#### Membuat Visual konten
-Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
-<span style="font-size:0.6em; color:gray">Contoh Gambar.</span>
-@fa[arrow-down]
-
-#VSLIDE
-
-```
-![contoh](/assets/image/gambar.jpg)
-```
-<br>
-![gambar](/assets/image/wps-office.png)
+#### Tampilan Home
+![contoh laporan](/assets/image/tampilan-home.png)
 
 ---
 
-@title[slide Video]
-## Slides Video
-## [ Inline ]
-
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+#### Tampilan Dashboard Kepegawaian
+![tampilan map](assets/image/dashboard-kepegawaian.png)
+<span style="font-size:0.6em; color:white">Dashboard Selanjutnya</span>
 @fa[arrow-down]
++++
 
-#VSLIDE
+#### Tampilan Dashboard Kependudukan
+![tabel laporan](assets/image/dashboard-kependudukan.png)
 
-#### Jadikan Presentasi Anda Hidup
++++
 
-<br>
+#### Tampilan Dashboard Kesehatan
+![buat laporan](assets/image/dashboard-kesehatan.png)
 
-Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
++++
 
-#VSLIDE
+#### Tampilan Dashboard Kependidikan
+![buat laporan](assets/image/dashboard-kependidikan.png)
 
-![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
++++
 
-#VSLIDE
-
-![Vimeo Video](https://player.vimeo.com/video/125471012)
-
-#VSLIDE
-
-![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
+#### Tampilan Dashboard Epormas
+![buat laporan](assets/image/dashboard-epormas.png)
 
 ---
-## Slide Fragmen
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+
+### Data Kepegawaian
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
 @fa[arrow-down]
 
-#VSLIDE
++++
 
-#### Mengungkapkan Konsep Slide Piecemeal
+#### Tampilan List Pegawaian
+![buat laporan](assets/image/list-pegawai.png)
 
-<br>
-Step through slide content in sequence to slowly reveal the bigger picture.
-- Java
-- Groovy  
-- Kotlin   
-- Scala   
-- The JVM rocks!
++++
 
-#VSLIDE
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Yogi</td>
-    <td>Hermawan</td>
-    <td>25</td>
-  </tr>
-   <tr>
-    <td>Kokoh</td>
-    <td>Aulia</td>
-    <td>94</td>
-  </tr>
-   <tr>
-    <td>Fery</td>
-    <td>Pratama</td>
-    <td>43</td>
-  </tr>
-</table>
+#### Tampilan List Pegawai KPO
+![buat laporan](assets/image/list-pegawai-kpo.png)
+
++++
+
+#### Tampilan List Pegawai Esselon
+![buat laporan](assets/image/list-pegawai-esselon.png)
+
++++
+
+#### Tampilan List Pangkat Pegawai
+![buat laporan](assets/image/list-pangkat-pegawai.png)
+
++++
+
+#### Tampilan List Usia ASN
+![buat laporan](assets/image/list-usia-asn.png)
+
++++
+
+#### Tampilan List Pegawai Yang akan Pensiun
+![buat laporan](assets/image/list-pegawai-pensiun.png)
+
 ---
-## Terimakasih
+
+### Data Kependudukan
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### Tampilan List Penduduk
+![buat laporan](assets/image/list-penduduk.png)
+
+---
+
+### Data Kesehatan
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### List Tim Medis
+![buat laporan](assets/image/list-tim-medis.png)
+
++++
+
+#### Fasilitas Kesehatan
+![buat laporan](assets/image/kamar-rawat-inap.png)
+
++++
+
+#### Kamar Rawat Inap
+![buat laporan](assets/image/fasilitas-kesehatan.png)
+
+---
+
+### Data Kependidikan
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### List Kependidikan
+![buat laporan](assets/image/list-pendidikan.png)
+
+---
+
+### Data Epormas
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### List Epormas
+![buat laporan](assets/image/list-epormas.png)
+
+---
+
+### Data Master
+<span style="font-size:0.6em; color:white">Selanjutnya</span>
+@fa[arrow-down]
+
++++
+
+#### Users List
+![buat laporan](assets/image/user-list.png)
+
++++
+
+#### Role Users
+![buat laporan](assets/image/role-users.png)
+
++++
+
+#### Permissions 
+![buat laporan](assets/image/permission-table.png)
+
++++
+
+#### Api Manager
+![buat laporan](assets/image/api-manager.png)
+
++++
+
+#### Workflow
+![buat laporan](assets/image/table-workflow.png)
+
++++
+
+#### Workflow State
+![buat laporan](assets/image/workflow-state.png)
+
++++
+
+#### Workflow Transition
+![buat laporan](assets/image/workflow-transition.png)
+
++++
+
+#### Workflow History
+![buat laporan](assets/image/workflow-history.png)
+
+---
+
+### SEKIAN
+## Dinas <span class="gold">KominfoST</span>
+
+#### Seksi Pengembangan Aplikasi Informatika.*
