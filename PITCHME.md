@@ -302,21 +302,21 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 +++
 
-![Konten Kamar Inap](/assets/image/konten-kmar-inap1.png)
+![Konten Kamar Inap](/assets/image/konten-kamar-inap1.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Konten Kamar Inap](/assets/image/konten-kmar-inap2.png)
+![Konten Kamar Inap](/assets/image/konten-kamar-inap2.png)
 
 <span style="font-size:0.6em; color:gray">Lajutannya...</span>
 @fa[arrow-down]
 
 +++
 
-![Konten Kamar Inap](/assets/image/konten-kmar-inap3.png)
+![Konten Kamar Inap](/assets/image/konten-kamar-inap3.png)
 
 ---
 
